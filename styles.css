@@ -70,3 +70,13 @@ button {
 button:hover {
   background-color: rgba(0, 136, 169, 0.8);
 }
+
+#algo-img {
+  height: 300px;
+  width: 400px;
+}
+
+#ds-img {
+  height: 300px;
+  width: 400px;
+}
